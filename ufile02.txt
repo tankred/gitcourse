@@ -2,3 +2,8 @@ ufile02
 #git reset
 git reset 558a121
 
+
+git stash
+git stash list
+
+git  stash pop
