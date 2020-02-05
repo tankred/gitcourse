@@ -1,9 +1,14 @@
 ufile02
 #git reset
 git reset 558a121
+<<<<<<< Updated upstream
 
 
 git stash
 git stash list
 
 git  stash pop
+=======
+#git remove: use cached to keep file on disk
+git rm --cached mylogfile.log
+>>>>>>> Stashed changes
