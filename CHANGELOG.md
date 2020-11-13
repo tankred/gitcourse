@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.2.0] - 2020-11-13
+### Changed
+- This CHANGELOG file
+
 ## [0.1.0] - 2020-10-16
 ### Added
 - This CHANGELOG file
