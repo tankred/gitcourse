@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.5.0] - 2021-12-21
+### Changed
+- Mv data to src/
+
 ## [0.4.0] - 2021-09-28
 ### Changed
 - Rename master branch to main
